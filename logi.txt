@@ -1,0 +1,2 @@
+[INFO] one info!
+[DEBUG] one debug!
