@@ -1,4 +1,3 @@
 # Mapsa
 newline
-
 Teaching... 
